@@ -92,3 +92,4 @@ while True:
     WINDOW.blit(right_text, (WIDTH*3//4, 20))
 
     pygame.display.flip()
+    
